@@ -64,5 +64,5 @@ public class cTimerDemo_AnalogCounter_Pane extends JPanel {
 		// TODO Auto-generated method stub
 
 	}
-
+//Lien Minh 
 }
